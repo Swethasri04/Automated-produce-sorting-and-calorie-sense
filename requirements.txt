@@ -1,0 +1,21 @@
+
+---
+
+### ✅ `requirements.txt`
+
+```txt
+tensorflow
+keras
+numpy
+pillow
+streamlit
+flask
+requests
+beautifulsoup4
+scikit-fuzzy
+matplotlib
+opencv-python
+
+
+// Swetha sri.A
+// Integrated Mtech Software Engineering
